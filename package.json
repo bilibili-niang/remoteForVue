@@ -1,11 +1,11 @@
 {
-  "name": "hel-tpl-remote-vue-comps",
+  "name": "ice-test-remote",
   "appGroupName": "hel-tpl-remote-vue-comps",
   "main": "hel_proxy/entry.js",
   "module": "hel_proxy_es/entry.js",
   "types": "src/entrance/libTypes.ts",
   "unpkg": "hel_dist/index.html",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "files": [
     "hel_dist",
     "hel_proxy",

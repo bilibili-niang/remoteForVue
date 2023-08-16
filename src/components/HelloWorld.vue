@@ -1,8 +1,18 @@
 <template>
   <div class="hello">
-    <hr />
-    <h1>{{ msg }}</h1>
-    <h2>I am a remote vue compoent</h2>
+    你好,这是我的测试发布的包
+    <br>
+    不知道能不能访问到,
+    <br>
+    <pre>
+      <code>
+        // 13
+          /**
+          * @param {string} s
+          * @return {number}
+          */
+      </code>
+    </pre>
   </div>
 </template>
 
@@ -23,14 +33,17 @@ export default {
 h3 {
   margin: 40px 0 0;
 }
+
 ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   display: inline-block;
   margin: 0 10px;
 }
+
 a {
   color: #42b983;
 }

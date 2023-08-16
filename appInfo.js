@@ -1,4 +1,6 @@
+// 配置文件
 const helDevUtils = require('hel-dev-utils');
+// const helDevUtils = require('ice-dev-utils');
 const pkg = require('./package.json');
 
 const subApp = helDevUtils.createVueSubApp(pkg, { npmCdnType: 'unpkg' });
