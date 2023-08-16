@@ -1,0 +1,85 @@
+{
+  "app": {
+    "name": "hel-tpl-remote-vue-comps",
+    "app_group_name": "hel-tpl-remote-vue-comps",
+    "git_repo_url": "",
+    "online_version": "1.5.1",
+    "build_version": "1.5.1"
+  },
+  "version": {
+    "plugin_ver": "4.3.20",
+    "extract_mode": "build",
+    "sub_app_name": "hel-tpl-remote-vue-comps",
+    "sub_app_version": "1.5.1",
+    "src_map": {
+      "webDirPath": "https://unpkg.com/ice-test-remote@1.5.1/hel_dist",
+      "htmlIndexSrc": "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/css/chunk-9c340a98.55a319f1.css"
+      ],
+      "chunkJsSrcList": [
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/app~e2e93592.2de4fcbb.js",
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/chunk-9c340a98.9d7092c6.js"
+      ],
+      "staticCssSrcList": [],
+      "staticJsSrcList": [
+        "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+      ],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/css/chunk-9c340a98.55a319f1.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/chunk-9c340a98.9d7092c6.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/app~e2e93592.2de4fcbb.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/app~e2e93592.2de4fcbb.js"
+          }
+        }
+      ],
+      "otherSrcList": [
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/favicon.ico",
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/img/logo.82b9c7a5.png",
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/index.html",
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/app~e2e93592.2de4fcbb.js.map",
+        "https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/chunk-9c340a98.9d7092c6.js.map"
+      ]
+    },
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://unpkg.com/ice-test-remote@1.5.1/hel_dist/css/chunk-9c340a98.55a319f1.css\" rel=\"prefetch\"><link href=\"https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/chunk-9c340a98.9d7092c6.js\" rel=\"prefetch\"><link href=\"https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/app~e2e93592.2de4fcbb.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but ice-test-remote doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://unpkg.com/ice-test-remote@1.5.1/hel_dist/js/app~e2e93592.2de4fcbb.js\"></script></body></html>"
+  }
+}

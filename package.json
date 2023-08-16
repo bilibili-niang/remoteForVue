@@ -6,6 +6,7 @@
   "types": "src/entrance/libTypes.ts",
   "unpkg": "hel_dist/index.html",
   "version": "1.5.1",
+  "repository": "https://github.com/bilibili-niang/remoteForVue.git",
   "files": [
     "hel_dist",
     "hel_proxy",
